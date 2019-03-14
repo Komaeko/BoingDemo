@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+  font-size: 17px;
+  background: #aaaaaa;
+}
+
+#myVideo {
+  margin: auto;
+  position: fixed;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.content {
+  position: fixed;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+}
+
+/*
+    __ __          __  ___                __ __          ___   ____  ___ ____ 
+   / //_/____     /  |/  /____ _ ___     / //_/____     |__ \ / __ \<  /( __ )
+  / ,<  / __ \   / /|_/ // __ `// _ \   / ,<  / __ \    __/ // / / // // __  |
+ / /| |/ /_/ /  / /  / // /_/ //  __/  / /| |/ /_/ /   / __// /_/ // // /_/ / 
+/_/ |_|\____/  /_/  /_/ \__,_/ \___/  /_/ |_|\____/   /____/\____//_/ \____/  
+
+www.komaeko.net
+
+*/
